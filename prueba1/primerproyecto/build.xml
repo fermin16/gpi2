@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<project name="primerproyecto" default="todo">
+	 <target name="compila">
+      <javac includeantruntime="false" srcdir="./src/main/java/Default/" destdir="./src/main/java/Default/"/>
+   </target>
+</project>
